@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: python-app
-          image: mohamedarafa98/python-app:latest
+          image: mohamedarafa98/python-app-v2:latest
           ports:
             - containerPort: 8080
           env:
